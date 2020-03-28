@@ -20,7 +20,7 @@ npm i && npm start
 ```
 
 ## Maintainers
-- [jeremyphilemon](https://github.com/jeremyphilemon)
+- [jeremyphilemon](https://www.github.com/jeremyphilemon)
 
 ## Contributors
 - [s-naveen](https://github.com/jeremyphilemon/covid19-india/pulls?q=is%3Apr+author%3As-naveen+is%3Aclosed)
